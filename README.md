@@ -12,12 +12,6 @@ Optional values.
 bower install purescript-maybe
 ```
 
-## Module documentation
+## Documentation
 
-- [Data.Maybe](docs/Data/Maybe.md)
-- [Data.Maybe.Unsafe](docs/Data/Maybe/Unsafe.md)
-
-### Maybe monoids
-
-- [Data.Maybe.First](docs/Data/Maybe/First.md)
-- [Data.Maybe.Last](docs/Data/Maybe/Last.md)
+Module documentation is [published on Pursuit](http://pursuit.purescript.org/packages/purescript-maybe).
